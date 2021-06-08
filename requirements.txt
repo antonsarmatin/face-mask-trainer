@@ -11,7 +11,7 @@ kiwisolver==1.2.0
 matplotlib==3.2.1
 numpy==1.18.5
 opencv-python==4.2.0.34
-Pillow==7.1.2
+Pillow==8.2.0
 plaidml==0.6.4
 plaidml-keras==0.6.4
 pycparser==2.20
