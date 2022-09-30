@@ -3,7 +3,7 @@ cycler==0.10.0
 enum34==1.1.10
 h5py==2.10.0
 imutils==0.5.3
-joblib==0.15.1
+joblib==1.2.0
 Keras==2.2.4
 Keras-Applications==1.0.8
 Keras-Preprocessing==1.1.2
